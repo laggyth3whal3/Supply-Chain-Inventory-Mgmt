@@ -1,1 +1,1 @@
-# Supply-Chain-Inventory-Mgmt
+# SupplyChain---Inventory-Management
